@@ -9,14 +9,14 @@ This is a custom built vehicle that can travel around an area and detect obstacl
   3) Design Process
   4) Next Steps
 
-### Design Overview
-The aim of this project was to design a vehicle that could move around and react to its envrionment. 
+## Design Overview
+The aim of this project was to develop a more fundamental understanding of sensors and how they interact with both a microcontroller and the envrionment. It was also an attempt to create a device that is constantly moving and interacting with its envrionment in real-time.
 
-  #### Features
-  #### Setup and Wiring
+  ### Features
+  ### Setup and Wiring
   
-### Demo Video
+## Demo Video
 
-### Design Process
+## Design Process
 
-### Next Steps
+## Next Steps
