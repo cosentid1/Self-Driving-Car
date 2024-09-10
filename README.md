@@ -7,6 +7,12 @@ This is a custom built vehicle that can travel around an area and detect obstacl
   1) Design Overview
   2) Demo Video
   3) Design Process
-  4) Future Improvements
+  4) Next Steps
 
 ### Design Overview
+
+### Demo Video
+
+### Design Process
+
+### Next Steps
