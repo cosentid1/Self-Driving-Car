@@ -10,6 +10,7 @@ This is a custom built vehicle that can travel around an area and detect obstacl
   4) Next Steps
 
 ### Design Overview
+The aim of this project was to design a vehicle that could move around and react to its envrionment. 
 
   #### Features
   #### Setup and Wiring
