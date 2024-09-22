@@ -22,6 +22,12 @@ To build this car, first the frame and the drving mechanics were made. The entir
 
 https://github.com/user-attachments/assets/2b4f0393-d715-4e5f-99ad-8616dd054645
 
+Once this was working, the next step was to build the front wheels and make them able to turn. This took a lot of time to get the weight distribution right so the front wheels would turn smoothly. Song the motor was right on top of the wheels, there was a lot of down force and would cause the wheels to not move while the motor tried to rotate, but after bit of time the system had built enough force to snap the wheels all the way to the other side, which was not what was desired. This made it hard to perform controlled turns as a lot of correction was needed to navigate around. Eventually this snapping was fixed but a new problem had arisen. The car simply would not move forward, or if it did, it would not move very far comapred to before the wheels were added. After lots of stuggling, the only way to have the car move forward was to remove the motor that controlled the turning along with many other pieces. This was a very disheartening moment since the car nearly worked with all of the parts on but it was just a little bit too heavy and since K'nex parts are very light, removing them would not affect the total car weight very much.
+
+![IMG_1522](https://github.com/user-attachments/assets/3eb10135-8cbd-485a-aaf7-a3fed51e43f7)
+
+![IMG_1617](https://github.com/user-attachments/assets/8b324d8d-12e8-4874-b929-1527ebb1136e)
+
 
 ## Next Steps
 As seen in the design process, the car was originally supposed to turn to avoid obstacles but the motor at the front made it too heavy and the car would not move. To be able to reimplement the turning mechanism, a stronger motor would have to be used at the back, or a more complex gear system to increase torque could also be a solution to this problem. Another improvement could be to add sensors to the side and back of the car. Currently the car only avoids obstacles by backing away from them. With more sensors, the car could try turning to the left or right based on data collected so it can navigate around any room on its own.
